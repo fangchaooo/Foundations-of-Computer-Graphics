@@ -1,0 +1,3 @@
+/Users/chaofang/Downloads/hw1-osx-10.9/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/chaofang/Downloads/hw1-osx-10.9/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/chaofang/Downloads/hw1-osx-10.9/cmake-build-debug/CMakeFiles/hw1_osx_10_9.dir
